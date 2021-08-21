@@ -1,0 +1,15 @@
+div.inline-block  {
+    display: inline-block;
+    border: solid black 3px;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+div.block   {
+    border: solid green 3px;
+    
+    
+}
+span.inline {
+    border: solid red 3px;
+}

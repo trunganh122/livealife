@@ -1,0 +1,18 @@
+img    {
+  
+    height: 500px;
+    border: solid 5px;
+    border-color: tomato black yellow green;
+    border-width: 5px 10px 5px 10px;
+    margin-left: 450px;
+    
+}
+p {
+    margin-right: 100px;
+    margin-left: 850px;
+    padding: 5px;
+    }
+
+    h1 {
+        margin: 50px 800px;
+    }

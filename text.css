@@ -1,0 +1,14 @@
+div {
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    text-align: center;
+    background-color: red;
+   border: solid pink 5px;
+
+}
+span.hi {
+    font-weight: bold;
+}
+span.hello {
+ font-display: ;
+}
